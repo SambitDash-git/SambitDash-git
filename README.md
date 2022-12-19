@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development and Technology.
 - 🌱 I’m currently learning Data Science.
 - 🎉 I’m looking to collaborate on Big Data, Statistics, Data Analysis.
-- 📫 How to reach me sambit.riki@gmail.com
+- 📫 Reach me out to sambit.riki@gmail.com
 
 <!---
 SambitDash-git/SambitDash-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
