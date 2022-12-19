@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SambitDash-git
+- 👋 Hi, I’m Sambit Dash.
 - 👀 I’m interested in Development and Technology.
 - 🌱 I’m currently learning Data Science.
 - 🎉 I’m looking to collaborate on Big Data, Statistics, Data Analysis.
